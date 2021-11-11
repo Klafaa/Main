@@ -1,3 +1,3 @@
 # KlafaCore
 
-Version: 4.0.0
+Version: 5.0.0
